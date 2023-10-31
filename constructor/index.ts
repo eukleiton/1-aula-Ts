@@ -87,7 +87,7 @@ Notas : 1° bi =  ${aluno3.nota1} / 2° = ${aluno3.nota2} / 3° = / 4° =
 Media do Aluno : <span> ${aluno3.obterMedia()} </span>
 
 
-
+</h4>
 `;
 
 console.log(aluno1);
