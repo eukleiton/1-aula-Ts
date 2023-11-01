@@ -1,0 +1,26 @@
+h1,
+h2 {
+  font-family: Lato;
+  text-align: center;
+}
+span {
+  color: red;
+  font-size: 30px;
+}
+div{
+  border-width: 100px;
+  border-radius: 100px;
+ 
+ 
+}
+p{
+  text-align: center;
+}
+img{
+  width: 600px;
+  text-align: center;
+  display: flex;
+  
+ 
+
+}
